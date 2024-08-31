@@ -6,5 +6,7 @@ Usage: sbuilder [arguments] [files]
 Arguments:  
 -d will ask the user to input a directory before starting
 -n will use the current directory 
--h displays this help/readme
+-h displays this help/readme  
+  
+NOTICE: The Github repo is a mirror to Gitlab
   
