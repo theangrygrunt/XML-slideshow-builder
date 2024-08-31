@@ -8,5 +8,5 @@ Arguments:
 -n will use the current directory 
 -h displays this help/readme  
   
-NOTICE: The Github repo is a mirror to Gitlab
+NOTICE: Work is not done from the Github repo as it is a mirror to Gitlab
   
