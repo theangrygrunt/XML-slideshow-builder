@@ -4,8 +4,8 @@ This small tool creates the required .xml files for slideshows in the MATE deskt
 
 Usage: sbuilder [arguments] [files]  
 Arguments:  
--d will ask the user to input a directory before starting
--n will use the current directory 
+-d will ask the user to input a directory before starting  
+-n will use the current directory  
 -h displays this help/readme  
   
 NOTICE: Work is not done from the Github repo as it is a mirror to Gitlab
